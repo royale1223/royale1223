@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Binoy Babu 👨‍⚕️💻
+# Hi, I'm Dr. Binoy Babu
 
 **Physician · Full-Stack Engineer · Health Tech Builder**
 
