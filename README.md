@@ -1,8 +1,8 @@
-# Hi, I'm Dr. Binoy Babu
+# Hi, I'm Dr. Binoy Babu 👨‍⚕️💻
 
 **Physician · Full-Stack Engineer · Health Tech Builder**
 
-I'm a medical doctor who builds software - specifically healthcare systems that actually work in clinical settings, because I've used them myself.
+I'm a medical doctor who builds software — specifically healthcare systems that actually work in clinical settings, because I've used them myself.
 
 ---
 
@@ -10,8 +10,8 @@ I'm a medical doctor who builds software - specifically healthcare systems that 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**2opi.com**](https://2opi.com) | Clinical second-opinion platform - helps patients understand reports & reference values | Node.js, REST API |
-| [**fleetapt.com**](https://fleetapt.com) | Fleet management SaaS for container operators - tracking, accounting, multi-user workflows | Node.js, React |
+| [**2opi.com**](https://2opi.com) | Clinical second-opinion platform — helps patients understand reports & reference values | Node.js, REST API |
+| [**fleetapt.com**](https://fleetapt.com) | Fleet management SaaS for container operators — tracking, accounting, multi-user workflows | Node.js, React |
 | **Prescription Master** | Android app for prescription management in clinical settings | Java/Android |
 | **Custom EMR** | Flutter-based electronic medical records system aligned with government primary care workflows | Flutter/Dart |
 
@@ -33,10 +33,10 @@ Domain      →  EMR/EHR, clinical workflows, health data, patient decision supp
 
 - **MBBS**, Calicut University (2012)
 - Currently: Medical Officer In-Charge, Family Health Centre, Kerala
-- Software developer since 2015 - building production systems in parallel with clinical practice
+- Software developer since 2015 — building production systems in parallel with clinical practice
 - Managed outbreak response, high-volume primary care, and government public health programs
 
-The unusual combination - clinical expertise + engineering execution - means I build health software that solves real problems, not imagined ones.
+The unusual combination — clinical expertise + engineering execution — means I build health software that solves real problems, not imagined ones.
 
 ---
 
